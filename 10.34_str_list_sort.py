@@ -1,4 +1,4 @@
-"""Fileban lévő tanulók vagy szavak rendezése"""
+"""Fileban lévő tanulók vagy szavak rendezések"""
 
 
 # Functions

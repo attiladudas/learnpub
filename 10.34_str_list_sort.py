@@ -1,6 +1,9 @@
 """Fileban lévő tanulók vagy szavak rendezése"""
 
 
+
+
+
 # Functions
 
 # Variables
